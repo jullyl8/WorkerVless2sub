@@ -9,7 +9,7 @@ let addresses = [
 	'cloudflare.cfgo.cc#优选官方线路',
 	'cf.090227.xyz',
 	'ct.090227.xyz',
-	'cmcc.090227.xyz',
+	'cmcc.090227.xyz:443',
 ];
 
 // 设置优选地址api接口
