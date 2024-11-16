@@ -21,10 +21,15 @@ let addressesapi = [
 	'https://addressesapi.090227.xyz/CloudFlareYes',
 	'https://addressesapi.090227.xyz/ip.164746.xyz',
 	'https://ipdb.api.030101.xyz/?type=bestcf&country=true',
+	'https://ipdb.api.030101.xyz/?type=bestproxy&country=true',
 	'https://cn.xxxxxxxx.tk',
 	'https://ct.xxxxxxxx.tk',
 	'https://cm.xxxxxxxx.tk',
 	'https://cu.xxxxxxxx.tk',
+	'https://addressesapi.090227.xyz/cmcc-ipv6',
+	'https://ctv6.xxxxxxxx.tk',
+	'https://cmv6.xxxxxxxx.tk',
+	'https://cuv6.xxxxxxxx.tk',
 ];
 
 // 设置优选地址，不带端口号默认80，noTLS订阅生成
